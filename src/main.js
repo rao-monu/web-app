@@ -18,6 +18,7 @@ const viewer = new Cesium.Viewer("cesiumContainer", {
   timeline: false,
   globe: false,
   resolutionScale: 5.0,
+  msaaSamples: 4,
   creditContainer: document.createElement("none"),
 });
 

@@ -1,6 +1,4 @@
-# cesium-vite-example
-
-A minimal recommended setup for an applications using [Cesium](https://cesium.com) with [Vite](https://vitejs.dev/).
+## A minimal recommended setup for an applications using [Cesium](https://cesium.com) with [Vite](https://vitejs.dev/).
 
 If you are using Webpack instead of Vite, check out our [`cesium-webpack-example`](https://github.com/CesiumGS/cesium-webpack-example) repo.
 
@@ -101,12 +99,5 @@ If you are using a version of CesiumJS before `1.114` you will need to modify th
   },
 ```
 
-See cesium PR [#11773](https://github.com/CesiumGS/cesium/pull/11773) for more information
 
-## Contributions
-
-Pull requests are appreciated. Please use the same [Contributor License Agreement (CLA)](https://github.com/CesiumGS/cesium/blob/master/CONTRIBUTING.md) used for [Cesium](https://cesium.com/).
-
----
-
-Developed by the Cesium team.
+.
